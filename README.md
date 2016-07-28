@@ -12,3 +12,5 @@ Raspberry Pi:
     - chatbot tutorial: https://apps.worldwritable.com/tutorials/chatbot/
     - pip install cleverbot
     - pip install chatterbot
+
+Challenge: Can you make your chatbot talk outloud?
